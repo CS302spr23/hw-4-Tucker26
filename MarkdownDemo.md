@@ -22,3 +22,4 @@ color `#ffffff` (only supported in issues, pull request, and discussions)
 footnote[^1]
 [^1]: footnote reference
 <!-- Hidden Content -->
+[link to ThingsIDontUnderstand.md](https://github.com/Tucker26/Things-I-dont-understand/blob/main/ThingsIDontUnderstand.md)
