@@ -11,7 +11,7 @@ Quoted `code`
 
 color `#ffffff` (only supported in issues, pull request, and discussions)
 
-[link](https://en.wikipedia.org/wiki/Markdown); ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+[link to my profile README.md](https://github.com/Tucker26/Tucker26/blob/main/README.md); ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 - list item
 1. ordered list item
    - nested list item
